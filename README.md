@@ -24,3 +24,5 @@ The kernel itself.
 
 Trust me, I like those JH7110 boards of mine. They are so basic, and they are like pets. Always in need of maintainance, and yet so imperfect. But still a reliable computer, but as you can see, the state of the best mainlined RISC-V SoC (as in the most blocks are mainlined, not that it doesn't have many blocks to begin with) is still quite rough at best.
 I know I am not very smart, for I purchased (preordered rather) a DeepComputing ROMA II Mainboard with a Eswin EIC7702X. Oh ho ho. Just imagine, that thing will probably be my laptop and yet live on the vendor's BSP for most of it's life. However, I guess I will release a OS image based on that BSP, but of my favorite stable distro --> Slackware.
+
+A little update : It's possible that nftables just doesn't work to begin with on mainline 6.12. Or vendor 6.12.
